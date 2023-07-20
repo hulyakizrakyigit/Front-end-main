@@ -1,0 +1,2 @@
+![görünüm](image/g%C3%B6r%C3%BCn%C3%BCm.png)
+1

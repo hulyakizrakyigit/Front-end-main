@@ -1,0 +1,13 @@
+.logo{
+    height: 250px;
+    width: 250px;
+    border-radius:100%;
+    
+}
+.logo-box{
+    text-align: center;
+}
+
+.renk{
+    background-color: #E9ECEF ;
+}
