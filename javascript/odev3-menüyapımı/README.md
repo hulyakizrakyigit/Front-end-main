@@ -1,9 +1,9 @@
-![all](\img\all.png)
+![all](images\all.png)
 
 
-![korea](\img\korea.png)
+![korea](images\korea.png)
 
 
-![japan](\img\japan.png)
+![japan](images\japan.png)
 
-![chine](\img\china.png)
+![chine](images\china.png)
